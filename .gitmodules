@@ -1,0 +1,12 @@
+[submodule "extensions"]
+	path = extensions
+	url = git@github.com:magnayn/cargo-extensions.git
+[submodule "pom"]
+	path = pom
+	url = git@github.com:magnayn/cargo-pom.git
+[submodule "core"]
+	path = core
+	url = git@github.com:magnayn/cargo-core.git
+[submodule "resources"]
+	path = resources
+	url = git@github.com:magnayn/cargo-resources.git
